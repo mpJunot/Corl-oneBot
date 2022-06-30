@@ -1,4 +1,4 @@
-# Corl-oneBot
+# Corl3oneBot
 Basic Discord Bot made with discord js
 
 # Prerequisites
